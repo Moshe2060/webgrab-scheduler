@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ערוץ נינג'ה">
+    <display-name lang="he">ערוץ נינג'ה</display-name>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3584121/images/10641558_1684830678921?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=0&amp;srcw=1/1&amp;srch=1/1" />
+    <url>http://www.freetv.tv</url>
+  </channel>
+  <programme start="20241115025512 -0400" stop="20241115041548 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 1 - מי יהיה הנינג'ה הישראלי?</title>
+    <desc lang="he">אתגר הנינג'ה מגיע לישראל.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/19694/COVER/images/19694_1701859834623.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115041548 -0400" stop="20241115053252 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 1 - לנצח את הבלתי אפשרי</title>
+    <desc lang="he">מתן מוכיח לכולם שאין דבר בלתי אפשרי.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/19694/COVER/images/19694_1701859834623.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115053252 -0400" stop="20241115064737 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 1 - המכשולים החדשים</title>
+    <desc lang="he">וגם הכירו את קושניר ג'וניור.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/19694/COVER/images/19694_1701859834623.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115064737 -0400" stop="20241115080601 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 1 - ואז הגיעה דפנה</title>
+    <desc lang="he">האם דפנה תהיה הנינג'ה הישראלית הראשונה?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/19694/COVER/images/19694_1701859834623.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115080601 -0400" stop="20241115091051 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 3 - הנינג'ה המהיר בישראל</title>
+    <desc lang="he">וגם ספיידרמן הישראלי רוצה כרטיס לגמר.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11912/COVER/images/11912_1701859839762.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115091051 -0400" stop="20241115101934 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 3 - אדם נגד סולם הסלמון</title>
+    <desc lang="he">האם יצליח הפעם לעבור את המכשול?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11912/COVER/images/11912_1701859839762.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115101934 -0400" stop="20241115111707 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 3 - מרנץ מול שמלא</title>
+    <desc lang="he">האלופים סוגרים את חצאי הגמר.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11912/COVER/images/11912_1701859839762.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115111707 -0400" stop="20241115121601 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 3 - שמלא סוגר את חצי הגמר</title>
+    <desc lang="he">מי מהאלופים יכבוש את המקום הראשון?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11912/COVER/images/11912_1701859839762.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115121601 -0400" stop="20241115134238 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 3 - גמר 2021 - חלק 1</title>
+    <desc lang="he">המתמודדים הטובים ביותר על המסלול הקשה ביותר.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11912/COVER/images/11912_1701859839762.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115134238 -0400" stop="20241115150607 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 3 - גמר 2021 - חלק 2</title>
+    <desc lang="he">הדרמה של יובל שמלא על המסלול.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11912/COVER/images/11912_1701859839762.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115150607 -0400" stop="20241115164128 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 3 - גמר נינג'ה ישראל 2021</title>
+    <desc lang="he">מי יהיה המנצח הגדול של העונה?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11912/COVER/images/11912_1701859839762.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115164128 -0400" stop="20241115180820 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">אתגר הנינג'ה ארה"ב 13 - פרק 13</title>
+    <desc lang="he">אליפות המשפחות הראשונה אי פעם מתקיימת ב"אתגר הנינג'ה", ועשר משפחות יעלו על מסלול המכשולים פעמיים. ארבע המשפחות הטובות ביותר יתקדמו לטורניר ראש בראש ב"מגדל הכוח", ושם יקבעו מי המשפחה הזוכה.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/24262/COVER/images/24262_1701859829525.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115180820 -0400" stop="20241115193508 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">אתגר הנינג'ה ארה"ב 13 - פרק 14</title>
+    <desc lang="he">אליפות הנשים מתקיימת בפעם השנייה ב"אתגר הנינג'ה", ו-12 הנשים הטובות ביותר יתמודדו עם שישה מכשולים בסיבוב הראשון. שש הנשים הראשונות יתקדמו לסיבוב השני ומתוכן ארבע הטובות ביותר יתחרו ראש בראש ב"מגדל הכוח". בסוף התוכנית תיקבע הזוכה הגדולה של האליפות.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/24262/COVER/images/24262_1701859829525.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115193508 -0400" stop="20241115210143 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">אתגר הנינג'ה ארה"ב 13 - פרק 15</title>
+    <desc lang="he">פרק כוכבים מיוחד ב"אתגר הנינג'ה" שבו כל כוכבי הנינג'ה האהובים והשמות הגדולים ביותר בעולם הנינג'ה מתכנסים כדי להתחרות זה בזה במכשולים המורכבים ביותר ובתחרויות המאתגרות ביותר.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/24262/COVER/images/24262_1701859829525.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115210143 -0400" stop="20241115221149 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 4 - הטעות שתדיח מהגמר</title>
+    <desc lang="he">אלכס חזנוב או יוגב מלכה – מי ילך הביתה?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/13749/COVER/images/13749_1703765235562.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115221149 -0400" stop="20241115231030 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 4 - מרנץ נלחם על הגמר</title>
+    <desc lang="he">האם אלוף העונה השנייה יצליח לעשות קאמבק?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/13749/COVER/images/13749_1703765235562.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241115231030 -0400" stop="20241116004023 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 4 - הגמר הגדול</title>
+    <desc lang="he">האם הנינג'ה ה-16 בעולם יגיע מישראל?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/13749/COVER/images/13749_1703765235562.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241116004023 -0400" stop="20241116022554 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 4 - הגמר עם ההר</title>
+    <desc lang="he">מי יעלה על המידוריאמה וינצח את העונה?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/13749/COVER/images/13749_1703765235562.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241116022554 -0400" stop="20241116032400 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 2 - המתמודד הענק מכולם</title>
+    <desc lang="he">האם המתמודד הכי ענק בנינג'ה יעבור את המסלול?</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/18648/COVER/images/18648_1703062972668.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20241116032400 -0400" stop="20241116044054 -0400" channel="ערוץ נינג'ה">
+    <title lang="he">נינג'ה ישראל 2 - רם לוין חוזר</title>
+    <desc lang="he">לפגוש את המכשול שהפיל את הגדולים בעולם.</desc>
+    <icon src="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/18648/COVER/images/18648_1703062972668.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+</tv>
