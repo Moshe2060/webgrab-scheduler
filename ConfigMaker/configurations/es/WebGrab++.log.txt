@@ -1,0 +1,52 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V5.3.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 08/11/2024 09:14:49
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 10.0.22631.0
+[  Debug ] Environment: 8.0.10
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: WG.common.timezone.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\osado\AppData\Local\WebGrab+Plus\ConfigMaker\configurations\es\WebGrab++.config.xml
+[  Info  ] Checking Internet ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[  Info  ] Checking License ..
+[  Info  ] -   UserName "moshe2080"
+[  Info  ] -   Program benefits setting "donator_license"
+[  Info  ] -   If you want more, see http://webgrabplus.com/faq#faq_4768
+[  Debug ] 
+[  Info  ] found: C:\Users\osado\AppData\Local\WebGrab+Plus\ConfigMaker\configurations\es\siteini.user\Israel\cellcom.co.il.ini -- Revision 01
+[  Info  ] input file C:\Users\osado\AppData\Local\WebGrab+Plus\ConfigMaker\output\es.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 1 - out of - 1 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/1   ) CELLCOM.CO.IL -- chan. (xmltv_id=ערוץ הקניות) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 07/11/2024 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 07/11/2024 23:15
+[  Info  ] 
+[  Info  ]    Summary for update of       ערוץ הקניות
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           57
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        57
+
+[  Debug ] 
+[  Debug ] 57 shows in 1 channels
+[  Debug ] 0 updated shows
+[  Debug ] 57 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 08/11/2024 09:14:50 done in 1s

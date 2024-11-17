@@ -1,0 +1,44 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V5.3.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 17/11/2024 21:37:52
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 10.0.19045.0
+[  Debug ] Environment: 8.0.11
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: WG.common.timezone.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\admin\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[  Info  ] Checking Internet ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[  Info  ] Checking License ..
+[  Info  ] -   UserName "moshe2080"
+[  Info  ] -   Program benefits setting "donator_license"
+[  Info  ] -   If you want more, see http://webgrabplus.com/faq#faq_4768
+[  Debug ] 
+[  Info  ] found: C:\Users\admin\AppData\Local\WebGrab+Plus\siteini.pack\Israel\cellcom.co.il.ini -- Revision 01
+[  Debug ] 
+[  Info  ] found: C:\Users\admin\AppData\Local\WebGrab+Plus\siteini.pack\Israel\yes.co.il.ini -- Revision 03
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\admin\AppData\Local\WebGrab+Plus\siteini.pack\Israel\freetv.tv.ini -- Revision 00
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\admin\AppData\Local\WebGrab+Plus\siteini.pack\Israel\partner.co.il.ini -- Revision 01
+[  Debug ] 
+[  Info  ] found: C:\Users\admin\AppData\Local\WebGrab+Plus\siteini.pack\Israel\hot.net.il.ini -- Revision 08
+[  Info  ] encrypted in 'new (V3)' mode
+[Warning ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] 
+[  Info  ] found: C:\Users\admin\AppData\Local\WebGrab+Plus\siteini.pack\Israel\i24news.tv.ini -- Revision 02
+[  Debug ] 
+[  Info  ] found: C:\Users\admin\AppData\Local\WebGrab+Plus\siteini.pack\Israel\mako.co.il.ini -- Revision 00
+[  Debug ] 
+[  Info  ] found: C:\Users\admin\AppData\Local\WebGrab+Plus\siteini.pack\Israel\relevant.co.il.ini -- Revision 00
+[  Debug ] xmltv input file - C:\Users\admin\AppData\Local\WebGrab+Plus\guide.xml - found
