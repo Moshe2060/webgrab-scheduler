@@ -1,4 +1,0 @@
-﻿User-agent: *
-Disallow: /*.pdf$
-Disallow: /*.ashx$
-Disallow: /energy

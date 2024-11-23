@@ -1,6 +1,0 @@
-#  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 17/11/2024 19:11
-#  Response cookie from url :https://my.partner.co.il/TV.Services/MyTvSrv.svc/SeaChange/GetEventTitleBO
-
-.my.partner.co.il	FALSE	/	FALSE	0	TS01babcba	015f5af863a401cbd39e604999bb4f89abbe25664dc1e676bd2c23276ebffef95aeaa91a2b2f8f76ee0ddc089fcbd8631972f4543d85c5dbb287f0166e736d50b0b3b28f32
-my.partner.co.il	FALSE	/	FALSE	0	PARTNER	oxnbcx4iki4tuks5ydm1ouro

@@ -1,3 +1,0 @@
-;version file (keep in place)
-[version]
-number="2024.11.16_011900"

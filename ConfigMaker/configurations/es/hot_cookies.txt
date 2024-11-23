@@ -1,6 +1,0 @@
-#  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 08/11/2024 09:13
-#  Response cookie from url :https://my.partner.co.il/TV.Services/MyTvSrv.svc/SeaChange/GetEpg
-
-.my.partner.co.il	FALSE	/	FALSE	0	TS01babcba	015f5af863d204d61c842afac4fae965af3b92fcee0ba72bedcd2ca858ce4bf9c0546ae78c73f57d441292ab0ff983510e8a992b5b45212c6a817a80d1788ee1ccc3543e4c
-my.partner.co.il	FALSE	/	FALSE	0	PARTNER	2wlrhvfrwqmlb5f32yvmbzvh
