@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-id="free_movies_10" tvg-name="Free Movies 10" group-title="FreeTV",Free Movies 10
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"334818ce9283df3de0f5742c17dfed1c":"44fa9569154b316984d7cfa2616eefeb"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/free_movies_10/live.mpd
