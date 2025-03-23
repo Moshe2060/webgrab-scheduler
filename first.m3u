@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="FreeTV" tvg-id="שורה ראשונה" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3679984/images/10713069_1686126802369?srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1&dsth=300&dstw=300",שורה ראשונה
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"69901ef2831ee4ca4a69b9bcb030ba41":"44fa9569154b316984d7cfa2616eefeb"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/front_seat/live.livx?indexMode
